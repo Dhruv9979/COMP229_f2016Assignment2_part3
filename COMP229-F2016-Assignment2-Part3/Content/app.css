@@ -1,0 +1,23 @@
+﻿/* custom css goes here */
+
+ /*
+    Name: Rutvik Patel, Dhruv Patel 
+    Student ID: 300877075 , 300856248
+    Date: October 5, 2016 
+    app.css file 
+     */
+
+body {
+    padding-bottom: 70px;
+    background-image: url('../Assets/Images/cricket_bat_and_ball.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+.col-md-6 .jumbotron{
+    height: 15vw;
+}
+
+.jumbotron{
+   background: rgb(200, 54, 54); /* This is for ie8 and below */
+   background: rgba(47, 149, 255, 0.2); 
+}
